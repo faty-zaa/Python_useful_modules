@@ -697,3 +697,7 @@ The `json` module is therefore mainly responsible for **serialization and deseri
 
 * **Deserialization:** JSON → Python
 * **Serialization:** Python → JSON
+
+# Recources
+
+https://www.tradingcode.net/python-programming-articles/
